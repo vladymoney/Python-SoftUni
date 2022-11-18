@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercises Inheritance/Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises Inheritance/Players and Monsters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises Inheritance/Zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance/Multilevel Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance/Single_Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises Inheritance/Need for Speed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises Inheritance/Shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise Encapsulation/Wild Cat Zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise Encapsulation/Pizza Maker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise Encapsulation/footbal team generator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exam Preparation/Skeleton/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exam/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exam2/project" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
